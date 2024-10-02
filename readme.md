@@ -24,9 +24,9 @@
           <br>
           previous work.
           <br>
-          &nbsp; - MiHoYo Reverse Engineering (Il2Cpp Encryption's "Gold Standard")  
-          &nbsp; - Hypixel Exploitation (many, many duplication bugs & more severe reported)  
-          &nbsp; - Collaborative Minecraft exploit hunting tools.  
+          &nbsp; - MiHoYo Reverse Engineering (Il2Cpp Encryption's "Gold Standard")<br>
+          &nbsp; - Hypixel Exploitation (many, many duplication bugs & more severe reported)  <br>
+          &nbsp; - Collaborative Minecraft exploit hunting tools.  <br>
           <br>
         </samp>
         <br>
